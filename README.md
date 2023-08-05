@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/flametong/e-shop/assets/32167273/2662c4a6-49a3-482a-b211-015d4687d55f" alt="Logo" width="80" height="80">
+    <img src="https://github.com/flametong/e-shop/assets/32167273/231f302b-d38c-4dce-8d6f-4ccd7097bafa" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">E-shop</h3>
@@ -69,10 +69,11 @@ Goal: learn the MVC pattern, routing and working with languages.
 
 ### Screenshots of the project
 
-![Home page](https://github.com/flametong/e-shop/assets/32167273/38c453e1-e986-43df-819d-b067ad4dde63)
-![Searching product](https://github.com/flametong/e-shop/assets/32167273/0b4825ac-d4cb-417e-8d3f-e4a9e8d90283)
-![Cart checkout](https://github.com/flametong/e-shop/assets/32167273/d8378312-9b0a-4cb3-9ed6-2f3a3ff5a978)
-![Personal account](https://github.com/flametong/e-shop/assets/32167273/81a00b51-b594-490d-a6bc-4dac93a8c4cd)
+![Home page](https://github.com/flametong/e-shop/assets/32167273/9385a4db-328b-434b-98a4-c59fa79ee99e)
+![Searching product](https://github.com/flametong/e-shop/assets/32167273/a4ff4b43-8e5e-45b3-b691-b446fca0442e)
+![Cart checkout](https://github.com/flametong/e-shop/assets/32167273/6db12d33-32bd-4d24-82d2-d449e5e0749f)
+![Orders in personal account](https://github.com/flametong/e-shop/assets/32167273/e1237244-f16c-4ea7-a95a-c0dc8cd283b0)
+![Sign Up](https://github.com/flametong/e-shop/assets/32167273/ef63a062-cd16-48d5-80a4-49d1695671ff)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
